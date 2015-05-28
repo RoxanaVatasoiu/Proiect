@@ -1,0 +1,30 @@
+#
+# ID client
+#
+* id 1
+-1
+#
+# Nume client
+#
+* nume 1
+Vatasoiu
+#
+# Prenume client
+#
+* prenume 1
+Roxana
+#
+# Buget client
+#
+* BUGET 1
+230.0
+#
+# Camere
+#
+* pret 1
+400.0
+#
+# Cost 
+#
+* cost 1
+0.0
